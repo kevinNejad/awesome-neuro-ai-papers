@@ -11,6 +11,7 @@
 This list is providing an overview of recent publications connecting neuroscience & computer science research. As both fields are growing rapidly this list is only presenting a small subset of relevant papers. In case important papers are missing please send a [pull request](https://github.com/CYHSM/awesome-neuro-ai-papers/pulls).
 
 # Papers
+W. Greedy, H.W. Zhu, J. Pemberton, J. Mellor, R.P. Costa [**Single-phase deep learning in cortico-cortical networks**](https://arxiv.org/pdf/2206.11769.pdf) arXiv (2022)
 
 Millet, J., Caucheteux, C., Orhan, P., Boubenec, Y., Gramfort, A., Dunbar, E., ... & King, J. R. [**Toward a realistic model of speech processing in the brain with self-supervised learning**](https://arxiv.org/abs/2206.01685) arXiv (2022)
 
@@ -114,6 +115,8 @@ Kell, A. J., Yamins, D. L., Shook, E. N., Norman-Haignere, S. V., & McDermott, J
 Guerguiev, Jordan, Timothy P. Lillicrap, and Blake A. Richards. [**Towards deep learning with segregated dendrites.**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5716677/) ELife (2017).
 
 Kanitscheider, I., & Fiete, I. [**Training recurrent networks to generate hypotheses about how the brain solves hard navigation problems**](https://arxiv.org/abs/1609.09059) arXiv (2017)
+
+J. Sacramento, R.P. Costa, Y. Bengio, W. Senn [**Dendritic error backpropagation in deep cortical microcircuits**](https://arxiv.org/pdf/1801.00062.pdf) arXiv (2017) 
 
 Bengio, Yoshua, Dong-Hyun Lee, Jorg Bornschein, Thomas Mesnard, and Zhouhan Lin. [**Towards biologically plausible deep learning.**](https://arxiv.org/abs/1502.04156) arXiv (2015).
 
